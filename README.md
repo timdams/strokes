@@ -1,4 +1,5 @@
 # Strokes
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/timdams/strokes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Achievements for Visual Studio .NET 2010**
 
 **Important information:** In order to run the project from code, please read the [Wiki Page] (https://github.com/jonasswiatek/strokes/wiki).
